@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cats-rolodex/static/css/main.c51d1405.css",
+    "main.js": "/cats-rolodex/static/js/main.87f849ea.js",
+    "static/js/787.2e06231d.chunk.js": "/cats-rolodex/static/js/787.2e06231d.chunk.js",
+    "index.html": "/cats-rolodex/index.html",
+    "main.c51d1405.css.map": "/cats-rolodex/static/css/main.c51d1405.css.map",
+    "main.87f849ea.js.map": "/cats-rolodex/static/js/main.87f849ea.js.map",
+    "787.2e06231d.chunk.js.map": "/cats-rolodex/static/js/787.2e06231d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c51d1405.css",
+    "static/js/main.87f849ea.js"
+  ]
+}
