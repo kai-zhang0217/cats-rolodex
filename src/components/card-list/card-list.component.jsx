@@ -1,12 +1,13 @@
-import React from 'react';
+import Card from '../card/card.components';
 import './card-list.styles.css';
-import {Card} from '../card/card.components';
 
-export const CardList = props =>(
+const CardList = ({cats}) =>(
     <div className = 'card-list'>
-        {props.cats.map(cat =>(
-            <Card key={cat.id} cats = {cat}/>
-        ))}
+        {cats.map((cat, index) => {
+            return <Card cat={cat} key={index} />
+        })}
+        
     </div>
 );
 
+export default CardList;
